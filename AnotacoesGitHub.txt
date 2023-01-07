@@ -1,0 +1,8 @@
+# GitGitHub
+
+Anotações de alguns comandos básicos usados no Git.<br>
+Observações: anotações feitas em 12.07.22 <br>
+===========================================================================
+
+cmd -> Prompt de Comando <br>
+dir -> listar diretórios

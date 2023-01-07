@@ -1,0 +1,41 @@
+# DesenvolvimentoModernoDeSoftware
+
+Anotações sobre curso Introdutório desenvolvimento moderno de software.
+Aulas assistidas em 15/11/21 <br>
+Observações: Primeira vez que tive um panorama mais completo sobre a área, me ajudou a me situar e possívelmente perceber qual caminho é mais interessante dentro no meu perfil. ❤ <br>
+===========================================================================
+
+TIPOS DE PLATAFORMA<br>
+Web<br>
+Mobible<br>
+Desktop<br>
+
+PERSONAS<br>
+Front-end<br>
+    UX Designer - HTML, CSS, JavaScript<br>
+FullStack<br>
+Back-end<br>
+    API(Ponte) - Java, PHP, C#<br>
+
+FRAMEWORK<br>
+    _Spring(Java)<br>
+    _Angular(HTML, CSS, JS)<br>
+
+IDE's<br>
+Ferramenta de auxilio no desenvolvimento<br>
+
+QUALITY ASSURANCE - TESTES<br>
+
+INFRA<br>
+    MODELO: Cliente - Servidor<br>
+
+PROFISSIONAL DE REDES<br>
+    Núvem Pública<br>
+    Servidor Físico<br>
+    Núvem Privada<br>
+ 
+CUSTOS [$$]<br>
+    
+===========================================================================
+
+FimDasAnotações
