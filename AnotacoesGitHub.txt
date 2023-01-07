@@ -1,8 +1,30 @@
 # GitGitHub
 
 Anotações de alguns comandos básicos usados no Git.<br>
-Observações: anotações feitas em 12.07.22 <br>
+Observação: anotações feitas em 12.07.22 <br>
 ===========================================================================
-
+VERSIONAMENTO DE CÓDIGO
+    Controle de versão
+    Amarmazenamento em Núvem
+    Trabalho em equipe
+    Evolução do código
+    Rastreamento
+    
 cmd -> Prompt de Comando <br>
-dir -> listar diretórios
+ls -> listar diretórios
+ls -> listar arquivos
+cd -> mudar de pasta
+Ctrl+L -> limpar tela
+Tab -> completa automaticamente
+mkdir -> cria um novo diretório/pasta
+rmdir -> exlui um diretório/pasta
+echo -> imprime
+"Silence sucess"
+
+Observação: anotações feitas em 07.01.23 <br>
+===========================================================================
+git status -> informações sobre estado atual dos arquivos
+git add . -> adiciona todos os arquivos
+git add -A -> adiciona todos os arquivos 
+git commit -m "mensagem" -> gerar um commit dos arquivos
+git push origin main -> enviar todos os commits para nuvem
